@@ -8,7 +8,7 @@ The robot uses inverse kinematics for coordinated walking motion and can be cont
 ## Robot Prototype
 
 ### Front View
-![Spiderbot Front](images/spiderbot_front.jpg)
+![Spiderbot Front](images/spiderbot_front.jpeg)
 
 ### Top View
 ![Spiderbot Top](images/top.jpeg)
