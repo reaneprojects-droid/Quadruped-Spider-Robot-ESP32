@@ -17,9 +17,8 @@ The robot uses inverse kinematics for coordinated walking motion and can be cont
 
 ## Robot Working Demonstration
 
-<video width="700" controls>
-  <source src="images/working.mp4" type="video/mp4">
-</video>
+▶ **Watch the robot walking:**  
+https://drive.google.com/file/d/1YdTrrOTnUX8nS_I5PZNqFAvmSWUKKRHM/view?usp=sharing
 
 ---
 
@@ -80,7 +79,7 @@ Each leg contains **three joints**:
 
 1. **Coxa Joint** – horizontal rotation of the leg  
 2. **Femur Joint** – vertical lifting movement  
-3. **Tibia Joint** – extension of the lower leg  
+3. **Tibia Joint** – extension of the lower leg
 
 Using **inverse kinematics calculations**, the system determines the correct joint angles required to move the robot smoothly.  
 Servo positions are updated approximately every **20 milliseconds** to produce stable gait motion.
@@ -106,7 +105,7 @@ Quadruped robots with stable locomotion can be used in several areas:
 - Inspection of hazardous environments  
 - Industrial facility inspection  
 - Rough terrain exploration  
-- Robotics research and education  
+- Robotics research and education
 
 Legged robots can traverse environments where wheeled robots struggle.
 
